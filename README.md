@@ -60,6 +60,18 @@
   <a href="https://laravel.com/" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" height="30" width="30" />
   </a>
+  
+  <a href="https://reactjs.org/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30" width="30" />
+  </a>
+  
+  <a href="https://angular.io/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" height="30" width="30" />
+  </a>
+  
+  <a href="https://expressjs.com/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="30" width="30" />
+  </a>
 
   </br><b>Clouds</b>
 
