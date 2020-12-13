@@ -84,11 +84,7 @@
   </a>
 
   </br><b>For API</b>
-
-  <a href="https://becode.com.br/o-que-e-api-rest-e-restful/" target="_blank">
-      <img align="center" src="./.github/icons/rest.png" alt="Rest" height="30" width="30" />
-  </a>
-
+  
   <a href="https://graphql.org/" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="30" width="30" />
   </a>
@@ -119,6 +115,14 @@
 
   <a href="https://www.heroku.com/" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="30" width="30" />
+  </a>
+  
+  <a href="https://www.apache.org/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" height="30" width="30" />
+  </a>
+  
+  <a href="https://www.digitalocean.com/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" height="30" width="30" />
   </a>
 </details>
 
