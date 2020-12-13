@@ -42,5 +42,5 @@ The name contains succinct description of the change:
 `feat/user-add-beta-sequence`
 
 <hr>
-**P.S**: The pull request must always be made to the branch `develop`, will not be accepted PR's for the `master`
+**PS**: The pull request must always be made to the branch ` develop `, will not be accepted PR's for the ` master `
 
