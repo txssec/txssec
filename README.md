@@ -139,6 +139,10 @@
   <a href="https://www.digitalocean.com/" target="_blank">
       <img align="center" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="Digital Ocean" height="30" width="30" />
   </a>
+  
+   <a href="https://forge.laravel.com/" target="_blank">
+      <img align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel Forge" height="30" width="30" />
+  </a>
 </details>
 
 <details>
