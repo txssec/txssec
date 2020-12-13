@@ -4,6 +4,22 @@
 
 > Currently we seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
+## guidelines
+TxsSec guidelines
+
+> [API](https://github.com/txssec/txssec/blob/master/API.md)
+
+>Git
+
+>> [Commit](https://github.com/txssec/txssec/blob/master/git/Commit.md)
+
+>> [Branch](https://github.com/txssec/txssec/blob/master/git/Branch.md)
+
+>> [Issue](https://github.com/txssec/txssec/blob/master/git/Issue.md)
+
+
+## Members
+
 <details>
   <summary>:zap: Our Skills</summary>
   
