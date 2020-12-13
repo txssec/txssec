@@ -135,3 +135,23 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dracula&locale=en" alt="jlenon7" width="400px" align="right"/>
 </details>
+
+<hr>
+
+### Lenon Sec
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-lenon-873480194/)](https://www.linkedin.com/in/jo%C3%A3o-lenon-873480194/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/554599553220)](http://wa.me/554599553220)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lenonSec7@gmail.com)](mailto:lenonSec7@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joao.lenon.779)](https://www.facebook.com/joao.lenon.779)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lenonsec/)](https://www.instagram.com/lenonsec/)
+
+### Txsoura
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/txsoura/)](https://www.linkedin.com/in/txsoura/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=http://wa.me/5545984289149)](http://wa.me/5545984289149)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:txsoura@gmail.com)](mailto:txsoura@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/txsoura)](https://twitter.com/txsoura)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/txsoura)](https://www.instagram.com/txsoura)
+
+
