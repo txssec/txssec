@@ -4,7 +4,7 @@
 
 > Currently we seek to create service templates that are always used, and only call them when necessary, thus reusing code and solving problems in less time.
 
-## guidelines
+## Guidelines
 TxsSec guidelines
 
 > [API](https://github.com/txssec/txssec/blob/master/API.md)
