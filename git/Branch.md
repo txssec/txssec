@@ -11,7 +11,7 @@ Each branch name should include a **type**, a **user** and a **name**:
 
 Name should not exceed 34 characters. This allows the branch to be easier to read on github as well as in various git tools and produces a nice.
 
-##### Types
+##### Type
 
 Must be one of the following:
 
