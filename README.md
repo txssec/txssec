@@ -127,9 +127,11 @@
 </details>
 
 <details>
-  <summary>:zap: Top Languages</summary>
+  <summary>:zap: Git Stats</summary>
   
   </br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlenon7&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlenon7&show_icons=true&theme=dracula&locale=en" alt="jlenon7" width="400px" align="left"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=txsoura&show_icons=true&theme=dracula&locale=en" alt="jlenon7" width="400px" align="right"/>
 </details>
