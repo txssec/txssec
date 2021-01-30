@@ -34,11 +34,10 @@ Must be one of the following:
 - **feature**: New feature or request;
 - **bug**: Something isn't working;
 - **documentation**: Improvements or additions to documentation;
-- **duplicate**: This issue or pull request already exists;
+- **config**: Just simple configuration to project;
 - **refactor**: Refactor a past feature;
-- **good first issue**: Good for newcomers;
 - **help wanted**: Extra attention is needed;
-- **invalid**: This doesn't seem right;
+- **fix**: Fix something that is not working;
 - **question**: Further information is requested;
 - **wontfix**: This will not be worked on.
 
